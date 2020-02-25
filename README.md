@@ -1,7 +1,8 @@
 # 2019-Data-Science-Bowl-Bronzen-Medal-Solution<br>
-Dataset : https://www.kaggle.com/c/data-science-bowl-2019<br>
-Solution : LGBM+NN+CATboost_0.559cv.ipynb (https://www.kaggle.com/vaishvik25)
+<h5>Dataset :</h5> https://www.kaggle.com/c/data-science-bowl-2019<br>
+<h5>Solution :</h5> LGBM+NN+CATboost_0.559cv.ipynb (https://www.kaggle.com/vaishvik25)
 
+<h5>About Competetion:</h5>
 Illuminate Learning. Ignite Possibilities.
 Uncover new insights in early childhood education and how media can support learning outcomes. Participate in our fifth annual Data Science Bowl, presented by Booz Allen Hamilton and Kaggle.
 
