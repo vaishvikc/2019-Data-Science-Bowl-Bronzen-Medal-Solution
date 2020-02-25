@@ -1,6 +1,8 @@
 # 2019-Data-Science-Bowl-Bronzen-Medal-Solution<br>
 <h5>Dataset :</h5> https://www.kaggle.com/c/data-science-bowl-2019<br>
-<h5>Solution :</h5> LGBM+NN+CATboost_0.559cv.ipynb (https://www.kaggle.com/vaishvik25)
+<h5>Solution :</h5> LGBM+NN+CATboost_0.559cv.ipynb
+
+<h5>Won Bronzen Medal in Competition :</h5> https://www.kaggle.com/vaishvik25
 
 <h5>About Competition:</h5>
 Illuminate Learning. Ignite Possibilities.
